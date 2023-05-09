@@ -76,6 +76,6 @@ server.listen(port, (err) => {
     process.exit();
     return;
   }
-  console.log("Start listening... test");
+  console.log("Start listening...");
   console.log('http://localhost:' + port);
 });
